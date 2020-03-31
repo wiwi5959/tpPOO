@@ -1,0 +1,11 @@
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.exe
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.deps.json
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.runtimeconfig.json
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.runtimeconfig.dev.json
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.dll
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.pdb
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.csprojAssemblyReference.cache
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.AssemblyInfoInputs.cache
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.AssemblyInfo.cs
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.dll
+C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.pdb
