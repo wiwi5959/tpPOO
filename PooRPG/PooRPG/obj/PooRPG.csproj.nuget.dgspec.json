@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilfried\\source\\repos\\PooRPG\\PooRPG\\PooRPG.csproj": {}
+    "C:\\Dev\\tpPOO\\PooRPG\\PooRPG\\PooRPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilfried\\source\\repos\\PooRPG\\PooRPG\\PooRPG.csproj": {
+    "C:\\Dev\\tpPOO\\PooRPG\\PooRPG\\PooRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilfried\\source\\repos\\PooRPG\\PooRPG\\PooRPG.csproj",
+        "projectUniqueName": "C:\\Dev\\tpPOO\\PooRPG\\PooRPG\\PooRPG.csproj",
         "projectName": "PooRPG",
-        "projectPath": "C:\\Users\\wilfried\\source\\repos\\PooRPG\\PooRPG\\PooRPG.csproj",
+        "projectPath": "C:\\Dev\\tpPOO\\PooRPG\\PooRPG\\PooRPG.csproj",
         "packagesPath": "C:\\Users\\wilfried\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilfried\\source\\repos\\PooRPG\\PooRPG\\obj\\",
+        "outputPath": "C:\\Dev\\tpPOO\\PooRPG\\PooRPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

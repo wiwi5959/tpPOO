@@ -12,6 +12,11 @@ namespace PooRPG
         public static Monstre monstre;
 
 
+        public static void StartGame()
+        {
+            personnage = NouveauPersonnage();
+            Fight();
+        }
         public static Personnage NouveauPersonnage()
         {
             Console.Write("nom du personnage ");
