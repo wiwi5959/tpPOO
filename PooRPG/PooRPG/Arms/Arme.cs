@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PooRPG
 {
-    class Arme: IActions
+    class Arme: IActions // l'interface actions va implémenter à la class Arme ses méthodes qui vont donc utiliser les variables de cette classe 
     {
         public int epee;
         public int bouclier;

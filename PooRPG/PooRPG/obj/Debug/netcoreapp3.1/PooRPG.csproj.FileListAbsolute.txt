@@ -9,3 +9,14 @@ C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.Asse
 C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.AssemblyInfo.cs
 C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.dll
 C:\Users\wilfried\source\repos\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.pdb
+C:\Dev\tpPOO\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.exe
+C:\Dev\tpPOO\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.deps.json
+C:\Dev\tpPOO\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.runtimeconfig.json
+C:\Dev\tpPOO\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.runtimeconfig.dev.json
+C:\Dev\tpPOO\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.dll
+C:\Dev\tpPOO\PooRPG\PooRPG\bin\Debug\netcoreapp3.1\PooRPG.pdb
+C:\Dev\tpPOO\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.csprojAssemblyReference.cache
+C:\Dev\tpPOO\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.AssemblyInfoInputs.cache
+C:\Dev\tpPOO\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.AssemblyInfo.cs
+C:\Dev\tpPOO\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.dll
+C:\Dev\tpPOO\PooRPG\PooRPG\obj\Debug\netcoreapp3.1\PooRPG.pdb
