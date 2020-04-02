@@ -6,5 +6,12 @@ namespace PooRPG
 {
     class Soigneur : Personnage
     {
+        public Arme Arme;
+        public Personnage personnage;
+
+        public int Soigner()
+        {
+            return personnage.vie += 50;
+        }
     }
 }

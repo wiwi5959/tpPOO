@@ -20,7 +20,7 @@ namespace PooRPG
         }
             public int Protect()
         {
-            return personnage.vie -= 5;
+            return personnage.vie += 25;
         }
 
         public int Soigner()

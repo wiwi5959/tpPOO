@@ -6,7 +6,8 @@ namespace PooRPG
 {
     class Archer : Personnage 
     {
-        public Personnage personnage;
+            public Arme Arme;
+            public Personnage personnage;
 
         public int LanceFleches()
         {

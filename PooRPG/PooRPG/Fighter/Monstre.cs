@@ -6,6 +6,12 @@ namespace PooRPG.Fighter
 {
     class Monstre:Personnage
     {
-     
+        public Arme Arme;
+        public Personnage personnage;
+
+        public int Protect()
+        {
+            return personnage.vie += 25;
+        }
     }
 }

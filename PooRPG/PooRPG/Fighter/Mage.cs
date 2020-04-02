@@ -7,5 +7,12 @@ namespace PooRPG
     
     class Mage :Personnage
     {
+        public Arme Arme;
+        public Personnage personnage;
+
+        public int Magicboom()
+        {
+            return personnage.vie -= 70;
+        }
     }
 }
