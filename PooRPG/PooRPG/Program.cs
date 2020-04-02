@@ -7,7 +7,7 @@ namespace PooRPG
     {
         static void Main(string[] args)
         {
-            Jeu.NouveauPersonnage();
+            
         }
     }
 }

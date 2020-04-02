@@ -4,11 +4,8 @@ using System.Text;
 
 namespace PooRPG.Fighter
 {
-    class Monstre
+    class Monstre:Personnage
     {
-        public string nom;
-        public int vie;
-        public int attaque;
-
+     
     }
 }

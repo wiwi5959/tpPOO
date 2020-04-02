@@ -7,7 +7,7 @@ namespace PooRPG // l'espace de noms ou package(enJava) est un répertoire perme
     class Personnage  // cette classe(schéma) est celle des personnages de notre jeu
     {
         public string nom;   // Ceci est le champs/variable d'instance "nom"(string , chaîne de caractères de la classe parmi les autres champs en entier(int)
-        public int vie;
+        public int vie ;
         public int attaque; // on n'a pas donné volontairement de valeur aux champs dès maintenant , elles seront données dans la méthode NouveauPersonnage de la classe Jeu
 
 

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace PooRPG
 {
+    
     class Mage :Personnage
     {
     }
